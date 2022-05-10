@@ -1,1 +1,1 @@
-image : mdolab/public:u20-gcc-ompi-stable
+image : mdolab/public:tacc-u18-gcc-impi-stable
